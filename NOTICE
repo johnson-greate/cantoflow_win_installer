@@ -1,0 +1,21 @@
+CantoFlow — desktop voice-dictation client (Windows & Linux)
+Copyright 2026 Greate (HK) Limited and the CantoFlow contributors.
+
+This product is a derivative work of SuperSec
+(https://github.com/Garionhk/SuperSec), Copyright the SuperSec authors,
+licensed under the Apache License, Version 2.0. The full license text is in
+LICENSE; third-party component licenses are in THIRD-PARTY-NOTICES.md.
+
+Per Apache-2.0 section 4(b), the files in this directory have been modified
+from the original SuperSec sources. Notable changes by the CantoFlow project:
+
+  - Rebranded from SuperSec to CantoFlow (package name, application identifiers,
+    per-user data directories, single-instance key, and UI strings).
+  - Added a macOS development backend (pbcopy/pbpaste clipboard) so the client
+    launches on a Mac for development; macOS is not a shipping target.
+  - Added a pytest test suite (transcript cleaning, energy-VAD auto-stop,
+    config round-trip, Simplified/Traditional conversion).
+  - Added GitHub Actions CI that runs the tests on Linux/Windows/macOS and
+    builds the Windows executable as a downloadable artifact.
+
+CantoFlow remains licensed under the Apache License, Version 2.0.
