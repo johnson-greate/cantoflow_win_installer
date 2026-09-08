@@ -12,9 +12,12 @@ Word、Excel、WhatsApp Web、email、任何打得字嘅地方都用得。
 
 ## 下載
 
-👉 **[到 Releases 下載](../../releases)**
+👉 **[下載 CantoFlow（Windows）](../../releases/latest/download/CantoFlow-Windows-Setup.exe)**
 
-揀 `CantoFlow-…-Windows-Setup.exe`（約 60 MB），唔使 GitHub 戶口。
+約 60 MB，唔使 GitHub 戶口，撳落去即刻開始下載。
+
+呢條連結永遠指住最新版本。想睇歷來版本同更新內容，
+可以去 [Releases](../../releases)。
 
 ---
 
